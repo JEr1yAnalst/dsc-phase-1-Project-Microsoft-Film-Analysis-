@@ -42,11 +42,11 @@ My analysis stage majorly forcused  on exploring the correlationships in the pre
 
 Here are my findings;
 
-1.
+  1.The production budget plays a major role for  profitabitty in the film industries . this may be attributed to major factors like marketing cost,investing in popular movie actors and directors  which come at a higher cost, lunguage intepretation of the original film etc.
 
+  2.There is a strong positive correlation between domestic_gross and worldwide_gross. this means that if a movie does  well in the local market, it will also perform well in the international market.
 
+  3.Popularity of a film doesn't guarantee the profitabilty of the film. From our analysis, there is a very weak positive correlation between the two meaning that profitability of a firm is not based on how popular their movies are.
 
+## recommendation
 
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
