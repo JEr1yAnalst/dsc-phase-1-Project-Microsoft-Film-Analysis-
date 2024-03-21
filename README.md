@@ -36,6 +36,13 @@ This analysis utilizes datasets acquired from three movie websites, namely Box O
   2.The second dataset, The movie DB ,has 9 columns comprising of genre_id, ids, original_language, title, popularity, release dates, vote_count and vote_average.  
   3.tn.movie_budgets.csv, contains information on released films, including their names, release dates, and financial data such as production budget and worldwide gross. 
 
+The link below shows the plot of top movies with the most profits
+  ![alt text](image.png) 
+The link below shows the correlation between domestic gross and the worldwide gross
+![alt text](image-1.png)
+The link below shows how popularity affects the vote counts of the movie
+![alt text](image-2.png)
+
 
 ## Data Analysis
 During my analysis phase, I mostly focused on examining the relationships between the previously cleaned data and creating visual representations.
