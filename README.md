@@ -50,3 +50,8 @@ Here are my findings;
 
 ## recommendation
 
+1.Because there is a strong positive correlation between production budget and both domestic and worldwide box office receipts, it is important to allocate your budget wisely for film production. This will allow you to hire top producers, marketers, and well-known actors, all of which will help your project become more successful and profitable.
+
+2.Focus on marketing the films in the  domestic market as this will determine the sucess/ profitability  of the film in the internatinal and foreign  markets.As noted in our analysis, there was a strong positive correlation between domestic_gross and wolrdwide _gross
+
+3.it's clear that factors other than popularity play significant roles in determining a film's profitability.that would include diversifying the content,focusing on quality and adopting a market strategy that aim to reach the right audience
