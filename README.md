@@ -8,7 +8,7 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ### Business understanding
 
-Microsoft faces competition with market leaders who possess profound industry expertise from the past.
+Microsoft faces competition with market leaders who possess profound industry expertise.
 Microsoft must carefully consider the kinds of films that have the best chance of being profitable, popular, and low in production costs if it is to prosper in this cutthroat market.
 
 In this case study, business savvy entails Microsoft seeing the chance to enter the film industry, particularly by opening a new studio.Microsoft wants to use its resources and brand to build on the fact that many successful businesses are producing unique video content, which is what motivated them to make this move.
