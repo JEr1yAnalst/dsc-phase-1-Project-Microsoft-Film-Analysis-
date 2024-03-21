@@ -7,10 +7,12 @@ This project analyzes movies datasets from various movie rating sites (through E
 Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ### Business understanding
-Microsoft faces the challenge of competing against industry giants armed with historical industry insights.
-To thrive in this competitive industry , microsoft needs to strategically determine the types of movies that are most likely to succeed in terms of profitability,production cost and its popularity
 
-Business understanding in this scenario involves microsoft recognizing the opportunity to enter the film industry, specifically by establishing a new movie studio .This decision is driven by observation that many successful companies are creating original video content, and microsoft wants to leverage its resources and brand to tap into this market
+Microsoft faces competition with market leaders who possess profound industry expertise from the past.
+Microsoft must carefully consider the kinds of films that have the best chance of being profitable, popular, and low in production costs if it is to prosper in this cutthroat market.
+
+In this case study, business savvy entails Microsoft seeing the chance to enter the film industry, particularly by opening a new studio.Microsoft wants to use its resources and brand to build on the fact that many successful businesses are producing unique video content, which is what motivated them to make this move.
+
 
 Here are the questions to guide through;
 
@@ -36,7 +38,7 @@ This analysis utilizes datasets acquired from three movie websites, namely Box O
 
 
 ## Data Analysis
-My analysis stage majorly forcused  on exploring the correlationships in the previously cleaned data and  come up with visualisations.
+During my analysis phase, I mostly focused on examining the relationships between the previously cleaned data and creating visual representations.
 
 ## conclusion
 
@@ -52,6 +54,6 @@ Here are my findings;
 
 1.Because there is a strong positive correlation between production budget and both domestic and worldwide box office receipts, it is important to allocate your budget wisely for film production. This will allow you to hire top producers, marketers, and well-known actors, all of which will help your project become more successful and profitable.
 
-2.Focus on marketing the films in the  domestic market as this will determine the sucess/ profitability  of the film in the internatinal and foreign  markets.As noted in our analysis, there was a strong positive correlation between domestic_gross and wolrdwide _gross
+2.Prioritize on domestic film marketing since it will have a significant impact on the international and foreign markets' viability and profitability.Our investigation revealed a significant positive link between domestic gross and worldwide gross.
 
-3.it's clear that factors other than popularity play significant roles in determining a film's profitability.that would include diversifying the content,focusing on quality and adopting a market strategy that aim to reach the right audience
+3.It is evident that a film's profitability is significantly influenced by variables other than popularity.approach would entail changing up the movie, emphasizing quality, and implementing a marketing plan that aims to attract the target market.
