@@ -17,8 +17,8 @@ In this case study, business savvy entails Microsoft seeing the chance to enter 
 Here are the questions to guide through;
 
 1. Find out if venturing into the firm industry is a viable business idea for microsoft
-2. Find out what how production cost is related to the total revenue
-3. Find out how popularity of a movie relates to its vote count
+2. Find out if production cost is related to the total revenue
+3. Find out if popularity of a movie relates to its vote count
 
 ### The Data understanding
 
@@ -37,7 +37,7 @@ This analysis utilizes datasets acquired from three movie websites, namely Box O
   3.tn.movie_budgets.csv, contains information on released films, including their names, release dates, and financial data such as production budget and worldwide gross. 
 
 The link below shows the plot of top movies with the most profits
-  ![alt text](image.png) 
+![alt text](image.png) 
 The link below shows the correlation between domestic gross and the worldwide gross
 ![alt text](image-1.png)
 The link below shows how popularity affects the vote counts of the movie
@@ -45,6 +45,7 @@ The link below shows how popularity affects the vote counts of the movie
 
 
 ## Data Analysis
+
 During my analysis phase, I mostly focused on examining the relationships between the previously cleaned data and creating visual representations.
 
 ## conclusion
